@@ -1,0 +1,25 @@
+.heading {
+    position: absolute;
+    top: 20%;
+    left: 42%;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+.p1 {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.p2 {
+    position: absolute;
+    top: 35%;
+    left: 29%;
+}
+
+.p3 {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+}
